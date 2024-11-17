@@ -1,0 +1,139 @@
+.ok{
+    background-image: url("bg2.avif");
+    background-size: cover;
+    height:460px;
+    width:100%;
+    margin:0;
+    padding:0;
+    display: flex;
+    flex-wrap:wrap;
+}
+.navbar{
+    color:white;
+    font-size: 1.5rem;
+    display:flex;
+    height:40px;
+    width: 100%;
+    font-weight: 500;
+    align-items: center;
+    justify-content:space-evenly;
+    
+}
+.getapp{
+    height: 40px;
+    width:400px;
+    margin-left: 60px;
+    margin-top:60px;
+
+}
+.k{
+    margin-top:60px;
+    height: 40px;
+    width:70px;
+}
+.hero{
+    font-size: 4rem;
+    margin: 0 600px;
+    font-weight: bold;
+    color:white;
+}
+.lo i{
+    color: #f15454;
+    font-size: 2rem;
+    margin-left: 5px;
+    
+}
+.nav{
+    height:50px;
+    margin:0 150px;
+    width:100%;
+    background-color: white;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.lo{
+    height:50px;
+    width:500px;
+    background-color: white;
+    display:flex;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+
+}
+.op{
+    border:none;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 200;
+    margin-left: 5px;
+}
+.in{
+    border:none;
+}
+.search{
+    font-size: 1.5rem;
+    width:100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.t{
+    margin:0 400px;
+    color: white;
+    font-size: 2rem;
+}
+.box{
+    height:200px;
+    width:400px;
+    border: 2px solid #e2e0e0;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 15px;
+
+}
+img{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 100px;
+    width:400px;
+}
+p{
+    font-size: 1rem;
+    
+}
+.items{
+    height:500px;
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.go{
+    font-size: 2.5rem;
+    font-weight: 850;
+    margin-top: 10px;
+    margin-left: 60px;
+    width: 100%;
+    height: 20px;
+}
+.pane{
+    background-color: rgb(246, 241, 241);
+    height: 300px;
+    width: 100%;
+}
+.foot-pane{
+    height:250px;
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    margin-left: 60px;
+}
+ul a{
+    display: block;
+}
+.foot{
+    height:250px;
+    width:300px;
+}
